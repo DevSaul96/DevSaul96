@@ -30,7 +30,7 @@
 
 - **Languages**:
     
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=angular,c#,vuejs,blazor)](https://skillicons.dev)
 
 <br>   
     
