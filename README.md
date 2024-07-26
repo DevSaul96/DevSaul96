@@ -30,7 +30,7 @@
 
 - **Languages**:
     
-  [![My Skills](https://skillicons.dev/icons?i=angular,c#,nodejs,vuejs-light,Azure-light,flutter-light,jquery,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=angular,c#,nodejs,vuejs-light,Azure-light,flutter-light,jquery)](https://skillicons.dev)
 
 <br>   
     
