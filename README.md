@@ -30,10 +30,7 @@
 
 - **Languages**:
     
-    ![.NET]([https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/449372i2C3BFEA35937197D/image-size/medium?v=v2&px=400))
-    ([https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png))
-    ([https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg))
-    ([https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png))
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <br>   
     
